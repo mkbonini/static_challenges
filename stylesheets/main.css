@@ -18,7 +18,7 @@
     width: 300px;
 }
 .location_image{
-    margin-bottom: 40px;
+    margin-bottom: 50px;
     max-width: 250px;
 }
 .last_image{
@@ -41,14 +41,15 @@ h1 {
     font-weight: bold;
 }
 h2 {
-    font-size: 20;
+    font-size: 25;
     font-weight: bold;
     margin: 10px;
 
 }
 h3 {
-    font-size: 20;
+    font-size: 18;
     font-weight: bold;
+    margin-bottom: 10px;
 }
 p {
     margin: 10px;
